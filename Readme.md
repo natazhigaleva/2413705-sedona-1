@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2413705).
-* Наставник: `Неизвестно`.
+* Студент: [Наталья Жигалева](https://up.htmlacademy.ru/htmlcss-individual/1/user/2413705).
+* Наставник: `Ирина Малиновская`.
 
 ---
 
